@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "120596552235",
+    "project_id": "datas-5b871",
+    "storage_bucket": "datas-5b871.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120596552235:android:3b330c5076d93f4a01e86e",
+        "android_client_info": {
+          "package_name": "com.example.datas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXC6SkLwbhAg3gCO44N1bQNIixRPhhOLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
